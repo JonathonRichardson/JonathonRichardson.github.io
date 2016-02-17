@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jonathon Richardson.  I recieved a Bachelor's Degree in Chemistry (with minors in Mathematics,
+Physics, and Human Biology) at the University of Wisconsin - Green Bay.  After graduating, I worked for
+an Electronic Health Record provider named Epic, where I learned how much I loved software and Computer
+Science.  I currently work at the University of Wisconsin - Madison as a Software Developer. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a man of many hobbies, from banjo and guitar to brewing, knitting, chainmaille, and electronics.
+The internet has been my friend for many years, providing me information on how to pursue just about
+any skill I want, virtually free of cost.  I absolutely love how sites such as Wikipedia and Youtube
+have allowed people to share knowledge and skills across the world.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+That is the basis of this site;  I would like to put some of the lessons I've learned out there for the
+benefit of others like me.  The majority of content on this site will be technology based, but I do plan
+to post articles regarding some of my other undertakings.
+
+Science and human knowledge advance as a collective, with each of us building on the work of others. That's
+why this site is called "Seeing Further"; everything we achieve or build comes only because of the hard
+work of others, and if we don't share our knowledge, anything we build will not be able to truly benefit the
+world.
